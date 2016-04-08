@@ -1,5 +1,5 @@
 # PictureCarousel
-PictureCarousel
+实现轮播图的无限滚动效果
 
 说明：
 主要功能：
